@@ -4,7 +4,7 @@ import requests
 
 # Telegram Bot Info
 TOKEN = "7972077213:AAFzrrlDZL0UkRH6iccMQrFXI_eHRfO149A"
-CHAT_ID =6303041882
+CHAT_ID ="6303041882"
 
 # Pair yang dianalisis
 pair = ['XAUUSD', 'GBPUSD', 'USDJPY']
